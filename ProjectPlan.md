@@ -5,17 +5,17 @@ The goal of our project is to explore the relationship between recent global env
 
 Research Question(s): What is/are the question(s) you intend to address?
 
-Some research questions we plan to address include:
+  Some research questions we plan to address include:
 
-What types of natural disasters cause the most economic stress?
+  What types of natural disasters cause the most economic stress?
 
-How has the frequency and severity of climate events changed over the past 5 years?
+  How has the frequency and severity of climate events changed over the past 5 years?
 
-What is the relationship between economic strains from climate events and overall economic outlook across different countries?
+  What is the relationship between economic strains from climate events and overall economic outlook across different countries?
 
-What are some factors that impact a countries ability to recover from environmental impacts?
+  What are some factors that impact a countries ability to recover from environmental impacts?
 
-Are economic costs from environmental disasters increasing or decreasing over the past few years?
+  Are economic costs from environmental disasters increasing or decreasing over the past few years?
 
 Team: Clearly define team member roles and responsibilities
 
