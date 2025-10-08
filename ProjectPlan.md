@@ -29,9 +29,9 @@ Datasets: Identify and describe the two datasets that you will use. If you are l
 "World Developoment Indicators" from World Bank Group. This is a comprehensive dataset including key statistics on economics and the environement. This dataset holds more macroeconomic global trends as well as environmental indicators such as co2 emissions and economic reslience. 
 
 Timeline: Document the plan and timeline for implementing your project including who will complete each task. Your plan must clearly address each of the requirements described above
-1. Identify key regions for analysis (Veronica)
+1. Identify key regions for analysis. Initial data exploration and Data Lifecycle mapping. (Veronica)
 2. Clean and create a master dataset (Maggie)
-3. Normalize the dataset. Further break down data into cost, changes in frequency and severity, etc. (Veronica)
+3. Normalize and assess quality of the dataset. Further break down data into cost, changes in frequency and severity, etc. (Veronica)
 4. Create visualizations and compute statisical results for factors impacting climate recovery (Maggie)
 5. Create outline of findings and create report of findings (Both)
 
