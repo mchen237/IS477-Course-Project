@@ -20,7 +20,7 @@ Research Question(s): What is/are the question(s) you intend to address?
 Team: Clearly define team member roles and responsibilities
 
 Veronica Liu: Data acquisition and preprocessing, workflow automation, storage, data integration and ethical constraints
-Maggie Chen: Metadata documentation, data integration, analysis and visualizations, data quality assessments
+Maggie Cheng: Metadata documentation, data integration, analysis and visualizations, data quality assessments
 
 Datasets: Identify and describe the two datasets that you will use. If you are looking for ideas for datasets to use, please reach out via Campuswire.
 
@@ -29,12 +29,19 @@ Datasets: Identify and describe the two datasets that you will use. If you are l
 "World Developoment Indicators" from World Bank Group. This is a comprehensive dataset including key statistics on economics and the environement. This dataset holds more macroeconomic global trends as well as environmental indicators such as co2 emissions and economic reslience. 
 
 Timeline: Document the plan and timeline for implementing your project including who will complete each task. Your plan must clearly address each of the requirements described above
+1. Identify key regions for analysis (Veronica)
+2. Clean and create a master dataset (Maggie)
+3. Normalize the dataset. Further break down data into cost, changes in frequency and severity, etc. (Veronica)
+4. Create visualizations and compute statisical results for factors impacting climate recovery (Maggie)
+5. Create outline of findings and create report of findings (Both)
 
 
 Constraints: Describe any known constraints.
+The "Global Climate Events and Economic Impact Dataset" is using estimates which leaves a level of uncertainty. It may also be difficult to find a direct cause between economic strain and outlook due to the type of data in the dataset if we are using methods such as regression.
 
 
 Gaps: Identify any known gaps or areas where you need additional input.
+"Economic strains" may be a bit broad and defining the exact metrics could improve our analysis. Clearly defining 'severity' and 'stress' will help with quantitative analysis. We would also need to specific the variables if we were to do regression analysis.
 
 
 
