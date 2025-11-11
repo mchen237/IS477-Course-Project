@@ -25,8 +25,10 @@ Maggie Cheng: Metadata documentation, data integration, analysis and visualizati
 Datasets: Identify and describe the two datasets that you will use. If you are looking for ideas for datasets to use, please reach out via Campuswire.
 
 "Global Climate Events and Economic Impact Dataset (2020-2025)" from Kaggle. This dataset explores over 3000 recent climate events with important metrics such as type, country, and severity. It also indicates the economic impact of event in dollars, cost of international aid, and impact per capita. This dataset will be key to exploring patterns in severity and economic impact between different countries over time. This dataset is sourced from Google and is in CSV format.
+https://www.kaggle.com/datasets/uom190346a/global-climate-events-and-economic-impact-dataset
 
 "World Developoment Indicators" from World Bank Group. This is a comprehensive dataset including key statistics on economics and the environement. This dataset holds more macroeconomic global trends as well as environmental indicators such as co2 emissions and economic reslience. 
+https://datacatalog.worldbank.org/search/dataset/0037712/World-Development-Indicators
 
 Timeline: Document the plan and timeline for implementing your project including who will complete each task. Your plan must clearly address each of the requirements described above
 1. Identify key regions for analysis. Initial data exploration and Data Lifecycle mapping. (Veronica)
@@ -41,7 +43,7 @@ The "Global Climate Events and Economic Impact Dataset" is using estimates which
 
 
 Gaps: Identify any known gaps or areas where you need additional input.
-"Economic strains" may be a bit broad and defining the exact metrics could improve our analysis. Clearly defining 'severity' and 'stress' will help with quantitative analysis. We would also need to specific the variables if we were to do regression analysis.
+"Economic strains" may be a bit broad and defining the exact metrics could improve our analysis. Clearly defining 'severity' and 'stress' will help with quantitative analysis. We would also need to specific the variables if we were to do regression analysis. Since the data we are using is observational, it would not be very reproducable if someone else were to gather and repeat the experiment.
 
 
 
