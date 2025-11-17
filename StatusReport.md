@@ -21,3 +21,7 @@ Create outline of findings and create report of findings (Both, not started)
 
 A description of any changes to your project plan itself, in particular about your progress so far. Also include changes you made to your plan based on feedback you may have received for Milestone 2.
 Each team member has to write a short summary of their contributions to the current milestone. Each team member should add and commit their contribution summary themselves to the shared github repo.
+
+Changes made to plan: Expanded the noted gaps in our plan by including the dataset's reproducibility, automation, metadata.
+
+Maggie: Cleaned both datasets by identifying whether there were any missing or invalid values within the dataet, then replacing the missing values, and once cleaned, merged both datasets into a master dataset.
