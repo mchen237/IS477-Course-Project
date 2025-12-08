@@ -121,7 +121,16 @@ Furthermore, reproducibility was a priority throughout each stage of the project
 
 By applying lessons learned in automating workflows, data acquisition, clear legal and ethical constraints, and analytical depth we can develop and further evolve our project in the future. We are equipped with a multitude of technical skills, tools, and ethical understanding to scale this project on both further findings and more efficient reproducibility. 
 
-Reproducing: Sequence of steps required for someone else to reproduce your results.
+Reproducing: 
+
+1. Access our GitHub repository at: https://github.com/mchen237/IS477-Course-Project
+   Clone the repository using these commands in your terminal 
+   git clone https://github.com/mchen237/IS477-Course-Project
+   cd IS477-Course-Project
+
+2. Our project was primarily developed using Python 3.10
+   Install all required libraries listed in requirements.txt by running
+   pip install -r requirements.txt 
 
 References: 
 
