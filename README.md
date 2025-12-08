@@ -105,5 +105,22 @@ Future work: [~500-1000 words] Brief discussion of any lessons learned and poten
 
 Reproducing: Sequence of steps required for someone else to reproduce your results.
 
-References: Formatted citations for any papers, datasets, or software used in your project.
+References: 
+
+**Datasets**
+
+- Ignacio Azúa. *World GDP, Population and CO2 Emissions Dataset*. Kaggle. Available at: https://www.kaggle.com/datasets/ignacioazua/world-gdp-population-and-co2-emissions-dataset  
+  (Accessed 2025). Shared for educational use only.
+
+- UOM190346A. *Global Climate Events and Economic Impact Dataset (2020–2025)*. Kaggle. Licensed under CC BY-SA 4.0.  
+  https://www.kaggle.com/datasets/uom190346a/global-climate-events-and-economic-impact-dataset
+
+**Software and Libraries**
+
+- Python Software Foundation. Python 3.10. https://www.python.org/
+- McKinney, Wes. *Pandas: Python Data Analysis Library*. https://pandas.pydata.org/
+- DuckDB Foundation. *DuckDB Embedded Database*. https://duckdb.org/
+- NumPy Developers. *NumPy scientific computing package*. https://numpy.org/
+- Matplotlib Developers. *Matplotlib Visualization Library*. https://matplotlib.org/
+
 
