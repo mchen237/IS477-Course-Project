@@ -135,9 +135,11 @@ Reproducing:
    
    Install all required libraries listed in requirements.txt by running:
    
-   pip install -r requirements.txt 
+   pip install -r requirements.txt
 
-3. Folder Setup and Data Acquiring
+   (a full environment replication will be included in the box files at requirements_full.txt)
+
+4. Folder Setup and Data Acquiring
 
 Due to licensing restrictions on the raw datasets, they cannot be redistributed in this repository. You must download them individually and locally through links provided.
 
