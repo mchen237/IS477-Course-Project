@@ -96,14 +96,8 @@ The overall human impact from disasters is substantial, with the data showing ov
 
 Moving forward to more specific relationships with economic outlooks, the integrated datasets are able to align climate disasters with global economic indicators such as GDP. Specifically from 2020-2022, we see inconsistent GDP growth with 2020 having -0.0288, 2021 going back positive at 0.0635, and 2022 slowing growth at 0.0324. While the total economic impact from natural disasters was highest in 2020 at 1972.3MUSD, and could possibly contribute to negative GDP, COVID was a major cause of slowing global markets. Other standout statistics include the increase CO2 emissions per capita, which grew from 4.56 - 4.8 in just 3 years, with CO2 change only being negative in 2020 also due to COVID-related factors. Due to the nature of the limited time horizon of this dataset, there is no clear decreasing or increasing trend between global climate disasters and global economic indicators. Further analysis on a more regional or national scale would be necessary to understand more direct links. However, for our purpose it can be assumed on a larger-global the economic impacts from natural disasters are absorbed or redistributed evenly across populations, indicating no clear direct relationship. 
 
-Our overall key takeaways that 
-
-1. **High and persistent disaster frequency**: Climate-related disasters remain frequent across 2020–2022, with over 1,500 events in total.  
-2. **Disproportionate human and economic impact**: Even with relatively stable average severity scores, the total deaths, injuries, and economic losses vary considerably by year.  
-3. **Global GDP appears resilient at aggregate scale**: Despite substantial losses, global GDP growth returns to positive territory after 2020, indicating that macroeconomic indicators may not immediately reflect localized or unevenly distributed climate impacts.  
-4. **Emissions remain high**: Within the narrow window examined, there is no clear evidence that heightened disaster impacts correspond to reductions in CO₂ emissions.
-
-These findings support our overall conclusion that climate disasters impose significant human and economic costs, but their relationship to global-scale economic and emissions trends is complex and not easily captured by short-term aggregate indicators.
+Our overall key takeaways are that climate-related disasters remain prevelant and widely impactful despite the number scale of severity. The severity of scores remain stable but the deaths, injuries, and economic losses are variable due to other regional factors. 
+ 
 
 
 
