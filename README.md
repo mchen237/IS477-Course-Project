@@ -38,6 +38,9 @@ Temporal and Geographic Coverage: The dataset spans six years, providing recent 
 
 Ethical and Legal Considerations: This dataset involves information about human casualties and suffering, requiring careful ethical treatment. The dataset contains aggregated individual impacts to event-level statistics. It uses publicly available information only. No personally identifiable information is included. The dataset acknowledged that casualty figures may be incomplete due to reporting gaps, particularly in regions with limited infrastructure. It has also recognized potential biases in disaster reporting, which may overrepresent events in developed countries with better monitoring systems.
 
+License: Creative Commons Attribution–ShareAlike 4.0 (CC BY-SA 4.0). This liscents permits reuse, adaptation, redistribtion, and transformation of the dataset for any purpose as long is proper citation is given and modified dataset must be used under the same license. 
+
+
 Dataset 2: "World GDP, Population & CO2 Emissions Dataset" from Kaggle
 
 Source and Provenance: This dataset aggregates global-level economic and environmental indicators over a 46-year period. This dataset was compiled using information from Worldometer (worldometers.info), a widely used source for global statistics. It has used data from sites such as Worldometer , World Bank, IMF, UN, and Global Carbon Project. These data represent official statistics compiled by international organizations from national government reports.
@@ -50,6 +53,7 @@ Temporal Coverage: The 46-year time series (1977-2022) provides sufficient histo
 
 Ethical and Legal Considerations: This dataset comprises aggregate, national-level statistics without individual-level information, minimizing privacy concerns. However, several ethical considerations do apply, such as the economic aggregates that may mask inequality and differential impacts across populations, the global averages may obscure important regional variations in emissions responsibility and climate vulnerability, historical emissions data reflect cumulative contributions to climate change which raises questions of historical responsibility versus current emissions levels, and finally, population statistics which may have involved sensitive nationality and residency questions for displaced people.
 
+License: This dataset does not include a formal open-data license. The dataset was shared on Kaggle without a specific license defaulting it to all-rights-reserved status. Therefore the raw data is not redistributed in this repository. Instead, we provide instructions for independent download and only share our findings for educational purposes. 
 
 Data quality: [500-1000 words] Summary of the quality assessment and findings.
 
