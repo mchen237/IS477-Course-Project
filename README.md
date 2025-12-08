@@ -107,7 +107,7 @@ Reproducing: Sequence of steps required for someone else to reproduce your resul
 
 References: 
 
-**Datasets**
+Datasets
 
 - Ignacio Azúa. *World GDP, Population and CO2 Emissions Dataset*. Kaggle. Available at: https://www.kaggle.com/datasets/ignacioazua/world-gdp-population-and-co2-emissions-dataset  
   (Accessed 2025). Shared for educational use only.
@@ -115,7 +115,7 @@ References:
 - UOM190346A. *Global Climate Events and Economic Impact Dataset (2020–2025)*. Kaggle. Licensed under CC BY-SA 4.0.  
   https://www.kaggle.com/datasets/uom190346a/global-climate-events-and-economic-impact-dataset
 
-**Software and Libraries**
+Software and Libraries
 
 - Python Software Foundation. Python 3.10. https://www.python.org/
 - McKinney, Wes. *Pandas: Python Data Analysis Library*. https://pandas.pydata.org/
