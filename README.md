@@ -139,20 +139,20 @@ Reproducing:
 
 3. Folder Setup and Data Acquiring
 
-Due to licensing restrictions on the raw datasets, they cannot be redistributed in this repository. You must download them individually and locally.
+Due to licensing restrictions on the raw datasets, they cannot be redistributed in this repository. You must download them individually and locally through links provided. 
 
-A guide to your local folder setup is below:
+All required raw data, input files, processed data, artifacts, and code to run will all be included in the Box folder link. 
 
-   IS477-Course-Project/
-│
-├─ data/
-│   ├─ raw/          <-- Place downloaded original datasets here
-│   └─ processed/    <-- Populated automatically or downloaded from Box
-│
-├─ src/              <-- Analysis and workflow scripts
-├─ results/          <-- Final outputs: figures, tables, summary stats
-└─ notebooks/        <-- Jupyter notebook used for analysis
+Box Folder Name: IS477_Final_Project
+Box Link: https://uofi.box.com/s/h93ghmg2o84rmc1sg7wr0lzgaj4xg84d 
 
+After downloading the box and the fiiles inside, place the floder inside the repository so that it matches the format in the box. Furthermore, the .gitignore file ensures that downloaded data is not accidentally pushed to GitHub.
+
+4. Run the Workflow
+
+To reproduce the analysis open either Jupyter Notebook or VS Code, open your repository folder will all necessary inputs and artifacts, open Run_All.ipynb specifically and execute the notebook. 
+
+The workflow will validate SHA-256, clean and preprocess the datasets, create a DuckDB database, perform dataset integration, export cleaned datasets, and generate summary tables, reports, and visualizations. 
 
 
 References: 
