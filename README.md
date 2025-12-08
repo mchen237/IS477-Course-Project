@@ -124,13 +124,36 @@ By applying lessons learned in automating workflows, data acquisition, clear leg
 Reproducing: 
 
 1. Access our GitHub repository at: https://github.com/mchen237/IS477-Course-Project
-   Clone the repository using these commands in your terminal 
+
+   Clone the repository using these commands in your terminal:
+   
    git clone https://github.com/mchen237/IS477-Course-Project
+   
    cd IS477-Course-Project
 
-2. Our project was primarily developed using Python 3.10
-   Install all required libraries listed in requirements.txt by running
+3. Our project was primarily developed using Python 3.10
+   
+   Install all required libraries listed in requirements.txt by running:
+   
    pip install -r requirements.txt 
+
+3. Folder Setup and Data Acquiring
+
+Due to licensing restrictions on the raw datasets, they cannot be redistributed in this repository. You must download them individually and locally.
+
+A guide to your local folder setup is below:
+
+   IS477-Course-Project/
+│
+├─ data/
+│   ├─ raw/          <-- Place downloaded original datasets here
+│   └─ processed/    <-- Populated automatically or downloaded from Box
+│
+├─ src/              <-- Analysis and workflow scripts
+├─ results/          <-- Final outputs: figures, tables, summary stats
+└─ notebooks/        <-- Jupyter notebook used for analysis
+
+
 
 References: 
 
