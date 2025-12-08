@@ -1,5 +1,6 @@
-
-data/
-*.csv
+raw_data/
+processed_data/
+artifacts/
+code_run_all/
 *.duckdb
-*.txt
+*.csv
