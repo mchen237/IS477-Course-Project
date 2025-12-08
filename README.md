@@ -53,6 +53,11 @@ Ethical and Legal Considerations: This dataset comprises aggregate, national-lev
 
 Data quality: [500-1000 words] Summary of the quality assessment and findings.
 
+There are everal quality considerations in the first dataset. Economic impact estimates vary in completeness and methodology across different events and regions because developing countries may have less comprehensive damage assessments than developed nations. Additionally, casualty figures are reported as they become available and may be revised as post-disaster assessments continue. The dataset also likely underrepresents smaller-scale disasters that are not reported on international reporting mechanisms. 
+
+While our second dataset comes from authoritative sources, several limitations do exist. GDP measurements face challenges in capturing informal economies, non-market production, and environmental degradation. Population estimates for countries without recent censuses rely on demographic models with uncertainty while CO2 emissions calculations depend on fuel consumption statistics and standardized emission factors that may not reflect actual emissions. Global aggregates also assume comparability across national statistical systems that may use different methodologies.
+
+
 Findings: [~500 words] Description of any findings including numeric results and/or visualizations.
 
 Future work: [~500-1000 words] Brief discussion of any lessons learned and potential future work.
