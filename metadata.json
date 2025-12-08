@@ -1,1 +1,65 @@
-
+{
+  "title": "Assessing Links between Climate Disasters, Climate Change, and Economic Impact through a Full Data Lifecycle",
+  "identifier": "climate-economy-2025",
+  "description": "Analysis integrating climate disaster events (2020-2025) with global GDP and CO2 emissions data (1977-2022) to examine relationships between climate disasters and economic indicators.",
+  "creators": [
+    {
+      "name": "Veronica Liu",
+      "affiliation": "[University Name]"
+    },
+    {
+      "name": "Maggie Cheng",
+      "affiliation": "[University Name]"
+    }
+  ],
+  "created": "2025-12-07",
+  "language": "en",
+  "keywords": [
+    "climate change",
+    "natural disasters",
+    "economic impact",
+    "GDP",
+    "CO2 emissions",
+    "disaster economics",
+    "climate economics"
+  ],
+  "license": {
+    "code": "MIT",
+    "data": "See data sources for individual licenses"
+  },
+  "temporal_coverage": "2020-01-01/2025-12-31",
+  "spatial_coverage": "Global",
+  "datasets": [
+    {
+      "name": "Climate Disaster Events",
+      "file": "global_climate_events_economic_impact_2020_2025.csv",
+      "records": 3000,
+      "time_period": "2020-2025",
+      "sha256": "27eb23bf938ea866120068dae9ccd3f0539bab39b02cd475f42511950f48328e"
+    },
+    {
+      "name": "World GDP and CO2 Emissions",
+      "file": "World_GDP_Population_CO2_Emissions_Dataset.csv",
+      "records": 46,
+      "time_period": "1977-2022",
+      "sha256": "1d5b4ae7c57914b02df77a37fcf8201c1c9179d46c1c7af3cf4e17ed8e3527ca"
+    }
+  ],
+  "methodology": "Data integrated using DuckDB relational database. Disaster events aggregated by year and joined with global economic indicators.",
+  "software": [
+    {
+      "name": "Python",
+      "version": "3.12"
+    },
+    {
+      "name": "pandas",
+      "version": "2.1.4"
+    },
+    {
+      "name": "DuckDB",
+      "version": "0.9.2"
+    }
+  ],
+  "repository": "https://github.com/mchen237/IS477-Course-Project.git",
+  "contact": "mchen237@illinois.edu", "vliu10@illinois.edu"
+}
