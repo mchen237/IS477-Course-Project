@@ -131,7 +131,7 @@ Reproducing:
    
    cd IS477-Course-Project
 
-3. Our project was primarily developed using Python 3.10
+2. Our project was primarily developed using Python 3.10
    
    Install all required libraries listed in requirements.txt by running:
    
@@ -139,7 +139,7 @@ Reproducing:
 
 3. Folder Setup and Data Acquiring
 
-Due to licensing restrictions on the raw datasets, they cannot be redistributed in this repository. You must download them individually and locally through links provided. 
+Due to licensing restrictions on the raw datasets, they cannot be redistributed in this repository. You must download them individually and locally through links provided.
 
 All required raw data, input files, processed data, artifacts, and code to run will all be included in the Box folder link. 
 
