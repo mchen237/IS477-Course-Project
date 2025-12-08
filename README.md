@@ -90,6 +90,23 @@ When integrating datasets, we verified completeness and correctness. The LEFT JO
 
 Findings: [~500 words] Description of any findings including numeric results and/or visualizations.
 
+In our supporting code file under Exhibit 5: Summary Statistics we have summarized our numerical results utilizing the final cleaned and integrated datasets. From the 'complete_data' subset of the integrated dataset which includes disaster data and global GDP, we found that the total number of recorded climate events from 2020-2022 is 1,531, total estimated economic impact is 3,856.1M, total recorded deaths is 7373, and total individuals affected as 1,289,138,664. Across the 2020–2022 period, the number of climate disaster events remains high, with several hundred events recorded each year. The average severity score between 2020-2021 stays consistently between 3.7 and 3.9 but the tlta economic impact and number of people affected have greater variability. This indicates despite severity in climate disasters, the economic impact and total affected can have various other causes. 
+
+The overall human impact from disasters is substantial, with the data showing over 7000 deaths, 117685 injured, and 1.29 billion affected. Due to the sheer amount of lives affected on a global level, it is important to understand the financial impact on these communities. 
+
+Moving forward to more specific relationships with economic outlooks, the integrated datasets are able to align climate disasters with global economic indicators such as GDP. Specifically from 2020-2022, we see inconsistent GDP growth with 2020 having -0.0288, 2021 going back positive at 0.0635, and 2022 slowing growth at 0.0324. While the total economic impact from natural disasters was highest in 2020 at 1972.3MUSD, and could possibly contribute to negative GDP, COVID was a major cause of slowing global markets. Other standout statistics include the increase CO2 emissions per capita, which grew from 4.56 - 4.8 in just 3 years, with CO2 change only being negative in 2020 also due to COVID-related factors. Due to the nature of the limited time horizon of this dataset, there is no clear decreasing or increasing trend between global climate disasters and global economic indicators. Further analysis on a more regional or national scale would be necessary to understand more direct links. However, for our purpose it can be assumed on a larger-global the economic impacts from natural disasters are absorbed or redistributed evenly across populations, indicating no clear direct relationship. 
+
+Our overall key takeaways that 
+
+1. **High and persistent disaster frequency**: Climate-related disasters remain frequent across 2020–2022, with over 1,500 events in total.  
+2. **Disproportionate human and economic impact**: Even with relatively stable average severity scores, the total deaths, injuries, and economic losses vary considerably by year.  
+3. **Global GDP appears resilient at aggregate scale**: Despite substantial losses, global GDP growth returns to positive territory after 2020, indicating that macroeconomic indicators may not immediately reflect localized or unevenly distributed climate impacts.  
+4. **Emissions remain high**: Within the narrow window examined, there is no clear evidence that heightened disaster impacts correspond to reductions in CO₂ emissions.
+
+These findings support our overall conclusion that climate disasters impose significant human and economic costs, but their relationship to global-scale economic and emissions trends is complex and not easily captured by short-term aggregate indicators.
+
+
+
 Future work: [~500-1000 words] Brief discussion of any lessons learned and potential future work.
 
 Reproducing: Sequence of steps required for someone else to reproduce your results.
