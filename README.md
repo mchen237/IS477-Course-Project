@@ -38,6 +38,19 @@ Temporal and Geographic Coverage: The dataset spans six years, providing recent 
 
 Ethical and Legal Considerations: This dataset involves information about human casualties and suffering, requiring careful ethical treatment. The dataset contains aggregated individual impacts to event-level statistics. It uses publicly available information only. No personally identifiable information is included. The dataset acknowledged that casualty figures may be incomplete due to reporting gaps, particularly in regions with limited infrastructure. It has also recognized potential biases in disaster reporting, which may overrepresent events in developed countries with better monitoring systems.
 
+Dataset 2: "World GDP, Population & CO2 Emissions Dataset" from Kaggle
+
+Source and Provenance: This dataset aggregates global-level economic and environmental indicators over a 46-year period. This dataset was compiled using information from Worldometer (worldometers.info), a widely used source for global statistics. It has used data from sites such as Worldometer , World Bank, IMF, UN, and Global Carbon Project. These data represent official statistics compiled by international organizations from national government reports.
+
+Structure and Coverage: The dataset contains 11 variables measured annually at the global level: real GDP in constant US dollars, GDP growth rates, GDP per capita, world population, population change metrics, total CO2 emissions from fossil fuels, emissions change rates, per capita emissions, and population density. Each observation represents aggregate global values for a single year.
+
+Data Collection Methods: Global economic data are compiled by the World Bank and UN from national statistical offices using standardized System of National Accounts methodologies. Population estimates come from UN Population Division demographic models based on censuses, vital registration systems, and sample surveys. CO2 emissions data are collected from International Energy Agency fossil fuel consumption statistics and cement production data, using standardized emission factors.
+
+Temporal Coverage: The 46-year time series (1977-2022) provides sufficient historical depth to identify long-term trends while remaining relevant to current climate policy discussions. The most recent years, 2020-2022, overlap with our disaster dataset, enabling integrated analysis. However, 2023-2025 economic data were not available at the time of analysis, which limits our ability to examine the most recent trends.
+
+Ethical and Legal Considerations: This dataset comprises aggregate, national-level statistics without individual-level information, minimizing privacy concerns. However, several ethical considerations do apply, such as the economic aggregates that may mask inequality and differential impacts across populations, the global averages may obscure important regional variations in emissions responsibility and climate vulnerability, historical emissions data reflect cumulative contributions to climate change which raises questions of historical responsibility versus current emissions levels, and finally, population statistics which may have involved sensitive nationality and residency questions for displaced people.
+
+
 Data quality: [500-1000 words] Summary of the quality assessment and findings.
 
 Findings: [~500 words] Description of any findings including numeric results and/or visualizations.
