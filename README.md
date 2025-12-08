@@ -154,6 +154,8 @@ To reproduce the analysis open either Jupyter Notebook or VS Code, open your rep
 
 The workflow will validate SHA-256, clean and preprocess the datasets, create a DuckDB database, perform dataset integration, export cleaned datasets, and generate summary tables, reports, and visualizations. 
 
+To ensure completion of the workflow the following output files should be created in your directory: disasters_clean.csv, gdp_clean.csv, integrated_yearly.csv, climate_economy.duckdb, data_quality_report.txt, integration_report.txt
+
 
 References: 
 
