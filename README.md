@@ -103,6 +103,17 @@ Our overall key takeaways are that climate-related disasters remain prevelant an
 
 Future work: [~500-1000 words] Brief discussion of any lessons learned and potential future work.
 
+Our experience integrating disaster event data with annual economic indicators shows the importance of alignment in multi-source analyses. The overlap between datasets is sufficient for initial exploration but there is limited statistical power. Future projects should prioritize datasets with substantial overlap or explicitly design data collection to improve integration. We also learned that different levels of data require different aggregation strategies to avoid losing important variation.
+
+Our data quality assessment showed us that it is essential for credible analysis. Creating automated profiling scripts and structured quality reports ensured systematic coverage of completeness, validity, and consistency. The checksums for data integrity verification were particularly useful and we recommend using this for any project where data provenance and reproducibility matter. 
+
+We initially envisioned more extensive statistical analyses but had to adjust our scope to focus on patterns and descriptive statistics. This ensured we could complete a thorough, well-documented analysis rather than superficially covering many topics. It is better to start with core questions and a solid foundation, then expand if time permits, rather than attempting comprehensive coverage from the start.
+
+Since our analysis is aggregated globally, it also obscures important regional patterns. Future work should be to analyze disasters at country or regional level to identify differential impacts. There should be a link created to country-level GDP and emissions data for more economic impact assessments. We should also incorporate more geographic variables, such as coastal vs. inland, latitude, elevation, etc. to test hypotheses about climate vulnerability.
+
+Although our analysis was primarily descriptive, future work could include developing time-series models to forecast disaster trends and implement regression analyses to quantify relationships between disasters, emissions, and economic variables while controlling for confounders. We could also apply machine learning techniques to predict high-impact events based on economic and climate indicators
+
+
 Reproducing: Sequence of steps required for someone else to reproduce your results.
 
 References: 
